@@ -1,16 +1,23 @@
-## Hi there 👋
+# Introdução à Análise de QA
 
-<!--
-**daianemargraf/daianemargraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projeto desenvolvido durante o Sprint 1 da formação em QA pela TripleTen, com foco nos fundamentos de Qualidade de Software e no papel do QA no ciclo de desenvolvimento.
 
-Here are some ideas to get you started:
+## 🎯 Objetivo
+Compreender conceitos básicos de QA, análise de requisitos e identificação de cenários de teste.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Atividades realizadas
+- Análise de requisitos
+- Identificação de cenários de teste
+- Introdução ao SDLC
+- Noções de defeitos e bugs
+
+## 🛠️ Ferramentas
+- Documentação
+- Google Docs / Sheets
+
+---
+
+## 📫 Contato
+
+📧 Email: daianemargraf03@outlook.com  
+💼 LinkedIn: www.linkedin.com/in/daianemargraf
